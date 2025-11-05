@@ -282,5 +282,5 @@ def production_example():
 ## 📞 Support
 
 For questions about this demo:
-- **Email:** psantora@amazon.com
+- **Email:** patweb99@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/patrick-santora-jr/](https://www.linkedin.com/in/patrick-santora-jr/)
